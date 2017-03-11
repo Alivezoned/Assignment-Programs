@@ -1,0 +1,28 @@
+<query xmlns:yahoo="http://www.yahooapis.com/v1/base.rng" yahoo:count="3" yahoo:created="2016-12-19T15:41:01Z" yahoo:lang="en-US">
+<results>
+<rate id="USDEUR">
+<Name>USD/EUR</Name>
+<Rate>0.9559</Rate>
+<Date>12/19/2016</Date>
+<Time>2:50am</Time>
+<Ask>0.9564</Ask>
+<Bid>0.9559</Bid>
+</rate>
+<rate id="USDINR">
+<Name>USD/INR</Name>
+<Rate>67.8340</Rate>
+<Date>12/19/2016</Date>
+<Time>1:05am</Time>
+<Ask>67.8840</Ask>
+<Bid>67.8340</Bid>
+</rate>
+<rate id="USDISK">
+<Name>USD/ISK</Name>
+<Rate>113.7000</Rate>
+<Date>12/19/2016</Date>
+<Time>11:15am</Time>
+<Ask>114.2400</Ask>
+<Bid>113.7000</Bid>
+</rate>
+</results>
+</query>
